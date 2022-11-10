@@ -1,0 +1,1 @@
+# @boilerplate/atom-plugin

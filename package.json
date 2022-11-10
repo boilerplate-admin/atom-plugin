@@ -1,0 +1,26 @@
+{
+  "name": "@boilerplate/atom-plugin",
+  "version": "0.0.1",
+  "description": "boilerplate plugin for atom IDE",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "atom",
+    "ide",
+    "plugin",
+    "boilerplate",
+    "@boilerplate"
+  ],
+  "author": "DoIT Technology <info@doittechnology.pl> (https://www.en.doittechnology.pl)",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
